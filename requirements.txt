@@ -1,0 +1,4 @@
+# The game engine and agents use only the Python standard library (Python 3.8+).
+# These are needed to run the notebook and the interactive Human vs AI board:
+jupyter
+ipywidgets
